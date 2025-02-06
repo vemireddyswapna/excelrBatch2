@@ -1,6 +1,6 @@
 public class Demo061 {
     public static void main(String[] args) {
-        int start = 1, end = 10; // Change range as needed
+        int start = 1, end = 10; 
 
         System.out.println("Prime numbers between " + start + " and " + end + " are:");
         for (int i = start; i <= end; i++) {
